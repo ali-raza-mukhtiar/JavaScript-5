@@ -1,0 +1,21 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-family: 'Courier New', Courier, monospace;
+}
+.main{
+    text-align: center;
+    margin: 20px;
+}
+.calculator{
+      margin: 20px;
+}
+.calculator a{
+    text-decoration: none;
+}
+.Blood{
+    margin: 20px;
+}
+.Blood a{
+    text-decoration: none;
+}
